@@ -3,7 +3,7 @@ USB Rubber Ducky like device with a Raspberry PI Pico
 
 Just a quick note: This whole thing is based on [The pico-ducky Repository by @dbisu](https://github.com/dbisu/pico-ducky).
 
-For Different Payloads see the Wiki of this Repository.
+For Different Payloads see [the Wiki](https://github.com/Li-amK/pico/wiki) of this Repository.
 
 The files that are on the board are also in the [Pico Board](https://github.com/Li-amK/pico/tree/main/Pico%20Board) Folder.
 
