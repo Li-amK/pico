@@ -5,6 +5,8 @@ Just a quick note: This whole thing is based on [The pico-ducky Repository by @d
 
 The files that are on the board are also in the [Pico Board](https://github.com/Li-amK/pico/tree/main/Pico%20Board) Folder.
 
+Board Firmware is [Circuitpython](https://circuitpython.org/board/raspberry_pi_pico/)
+
 # Payloads
 For Different Payloads see [the Wiki](https://github.com/Li-amK/pico/wiki) of this Repository.
 
