@@ -44,6 +44,8 @@ STRING Set WshShell = CreateObject("WScript.Shell")
 ENTER
 STRING WshShell.SendKeys(chr(&hAF))
 ENTER
+STRING WScript.Sleep 100
+ENTER
 STRING loop
 ENTER
 CTRL z
