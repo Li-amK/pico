@@ -1,4 +1,5 @@
-# Pico
+
+# Pico [![CodeQL](https://github.com/Li-amK/pico/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Li-amK/pico/actions/workflows/codeql-analysis.yml)
 USB Rubber Ducky like device with a Raspberry PI Pico 
 
 The files that are on the board are located in the [Pico Board](https://github.com/Li-amK/pico/tree/main/Pico%20Board) Folder.
